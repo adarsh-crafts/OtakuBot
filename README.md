@@ -50,13 +50,13 @@
 
 ## 🧠 Folder Structure
 
-Anime-bot/
-├── main.py # Entry point of the bot
-├── .env # Environment variables (add your token here)
-├── Actions/ # Anime interaction commands
-├── Fun/ # Fun commands like 8ball, flip, roll
-├── Config/ # Help and information command files
-├── DataFiles/ # Static data like replies, colors, and embeds
+Anime-bot/  
+├── main.py # Entry point of the bot  
+├── .env # Environment variables (add your token here)  
+├── Actions/ # Anime interaction commands  
+├── Fun/ # Fun commands like 8ball, flip, roll  
+├── Config/ # Help and information command files  
+├── DataFiles/ # Static data like replies, colors, and embeds  
 
 yaml
 Copy
